@@ -4,7 +4,7 @@
   "description": "",
   "main": "party.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "libsodium-wrappers": "^0.7.2",
     "jquery-deferred": "^0.3.1",
     "socket.io": "^2.0.2",
